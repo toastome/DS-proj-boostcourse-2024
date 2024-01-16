@@ -1,1 +1,1 @@
-# Naver-BoostCourse-2024
+# BOOSTCOURSE-2024
